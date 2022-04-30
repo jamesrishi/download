@@ -1,0 +1,2 @@
+# download
+partnerdownload.adobe.com
